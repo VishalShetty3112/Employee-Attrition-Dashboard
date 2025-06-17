@@ -15,7 +15,7 @@ To create an interactive dashboard that:
 * Enhances decision-making with KPIs, filters, and comparative visuals.
 
 # DataSet Used
-<a href = " https://github.com/VishalShetty3112/Employee-Attrition-Dashboard/blob/main/hrattrition.csv" > Employee Attrition Dataset</a>
+<a href = "https://github.com/VishalShetty3112/Employee-Attrition-Dashboard/blob/main/hrattrition.csv" > Employee Attrition Dataset</a>
 
 # Tools Used
 Power BI -> interactive dashboard
