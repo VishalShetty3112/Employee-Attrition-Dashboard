@@ -25,9 +25,6 @@ Charts and DAX -> used for calculations and visuals
 # 📊 Dashboard Interaction:
 <a href = "https://github.com/VishalShetty3112/Employee-Attrition-Dashboard/blob/main/Attrition%20Dashboard%20Snapshot.png" > View Dashboard</a>
 
-# Dashboard
-https://github.com/VishalShetty3112/Employee-Attrition-Dashboard/blob/main/Attrition%20Dashboard%20Snapshot.png
-
 # Project Insight
 Highest attrition in 26–35 age group and salary < 5k
 Sales Executives and Laboratory Technicians show the highest attrition
