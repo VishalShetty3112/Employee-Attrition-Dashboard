@@ -22,7 +22,7 @@ To create an interactive dashboard that:
 * Power Query -> Data cleaned and processed  Power Query
 * Charts and DAX -> used for calculations and visuals
 
-# 📊 Dashboard Interaction:
+# Dashboard Interaction:
 <a href = "https://github.com/VishalShetty3112/Employee-Attrition-Dashboard/blob/main/Attrition%20Dashboard%20Snapshot.png" > View Dashboard</a>
 
 # Project Insight
