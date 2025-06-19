@@ -18,18 +18,29 @@ To create an interactive dashboard that:
 <a href = "https://github.com/VishalShetty3112/Employee-Attrition-Dashboard/blob/main/hrattrition.csv" > Employee Attrition Dataset</a>
 
 # Tools Used
-* Power BI -> interactive dashboard
+* Power BI -> Interactive dashboard
 * Power Query -> Data cleaned and processed  Power Query
-* Charts and DAX -> used for calculations and visuals
+* Charts and DAX -> Used for calculations and visuals
 
 # Dashboard Interaction:
-<a href = "https://github.com/VishalShetty3112/Employee-Attrition-Dashboard/blob/main/Attrition%20Dashboard%20Snapshot.png" > View Dashboard</a>
+![Attrition Dashboard Snapshot](https://github.com/user-attachments/assets/3b536935-00d2-422d-8618-c86b4732f242)
 
 # Project Insight
-Highest attrition in 26–35 age group and salary < 5k. Sales Executives and Laboratory Technicians show the highest attrition. Males (138) have higher attrition compared to Females (77). Life Sciences and Medical backgrounds face greater turnover. There is a spike in attrition for employees with 0–1 years of service. Job roles with lower satisfaction scores (1 or 2) are strongly correlated with attrition.
+Highest attrition in 26–35 age group and salary < 5k.
+
+Sales Executives and Laboratory Technicians show the highest attrition.
+
+Males (138) have higher attrition compared to Females (77).
+
+Life Sciences and Medical backgrounds face greater turnover. 
+
+There is a spike in attrition for employees with 0–1 years of service.
+
+Job roles with lower satisfaction scores (1 or 2) are strongly correlated with attrition.
 
 # Final Conclusion
 Focus on the controllable factors first: salary structure, onboarding, job satisfaction, and role-based issues. These will give the most immediate improvements in reducing attrition.
 Gender attrition appears stable and balanced.
+
 HR should focus efforts on other critical issues like salary slab, early tenure exits, and specific job roles.
 Salary and job satisfaction are the major drivers of attrition. Special attention is needed for early tenure employees, especially those in R&D and Sales departments. Also creating growth opportunities for high-attrition roles. There should be regular satisfaction surveys and feedback loops.
