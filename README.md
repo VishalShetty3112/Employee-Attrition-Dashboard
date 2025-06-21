@@ -31,7 +31,7 @@ Power Query -> Data cleaned and processed  Power Query
 
 # 📈 Project Insight
 
-# Key Metrics (KPIs):
+## Key Metrics (KPIs):
 Total Employees: Displays the total headcount: 1,257 employees
 
 Attrition Count: Number of employees who left: 215
@@ -42,11 +42,11 @@ Average Salary: Shows the average salary of employees: ₹5.74K (in thousands)
 
 Average Tenure: Average years spent at the company before attrition: 5.25 years
 
-# Interactive Filters (Slicers):
+## Interactive Filters (Slicers):
 
 Users can filter data based on: Department, Gender, Job Role, Salary Slab, Tenure Band. This helps in detailed, segmented analysis of attrition.
 
-# Visualizations & Insights:
+## Visualizations & Insights:
 *  Attrition by Years at Company (Line Chart):
 Shows a peak in attrition at year 1.
 Significant drop after 1-2 years of tenure.
@@ -99,7 +99,7 @@ Gender attrition appears stable and balanced. Visual insights helped HR teams ma
 
 HR should focus efforts on other critical issues like salary slab, early tenure exits, and specific job roles. Salary and job satisfaction are the major drivers of attrition. Special attention is needed for early tenure employees, especially those in R&D and Sales departments. Also creating growth opportunities for high-attrition roles. There should be regular satisfaction surveys and feedback loops. This project helps HR  to identify critical pain points and assists in designing retention programs. It also guides salary benchmarking and satisfaction improvement efforts.It enables proactive decision-making to reduce future attrition.
 
-# 💡 Recommendations to Improve Performance
+## 💡 Recommendations to Improve Performance
 Improve salary structure for entry-level and junior roles.
 
 Monitor job satisfaction regularly and act on feedback proactively.
